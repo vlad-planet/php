@@ -24,3 +24,4 @@ $result = $rm->invoke(null);
 $instance = $rc->newInstance();
 $result = $rm->invoke($instance);
 ```
+
