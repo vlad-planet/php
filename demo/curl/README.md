@@ -1,4 +1,5 @@
 # Использование cURL
+https://php.ru/manual/ref.curl.html
 
 ```php
 // Создание
