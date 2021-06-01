@@ -9,6 +9,8 @@ https://www.php.net/docs.php
 
 https://phpdoc.org/
 
+https://php.ru/manual/
+
 // composer
 https://packagist.org/
 
