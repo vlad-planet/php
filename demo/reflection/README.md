@@ -1,4 +1,5 @@
 # Reflection API: примеры
+https://php.ru/manual/book.reflection.html
 
 ```php
 // Получаем экземпляр класса ReflectionClass
