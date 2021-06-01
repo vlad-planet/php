@@ -6,10 +6,11 @@ https://hotexamples.com/ru/site/trends?type=php%7Cf&pageNum=0
 
 # Документация PHP
 https://www.php.net/docs.php
+
 https://phpdoc.org/
 
-#### composer
+// composer
 https://packagist.org/
 
-#### apache
+// apache
 https://apache.org/
