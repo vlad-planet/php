@@ -2,7 +2,7 @@
 /demo
 
 # Самые популярные PHP функции
-https://hotexamples.com/ru/site/trends?type=php%7Cf&pageNum=0
+https://hotexamples.com/ru/site/trends?type=php%7Cf
 
 # Документация PHP
 https://www.php.net/docs.php
@@ -16,4 +16,3 @@ https://packagist.org/
 
 // apache
 https://apache.org/docs/
-
